@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+	background: url(wp9309990-hd-4k-romantic-wallpapers.jpg) no-repeat;
+    background-color: #72A0C1;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px 0;
+    font-size: medium;
+    font-style: sans-serif;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.image-item {
+    margin: 20px;
+    text-align: center;
+}
+
+.image-item img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.image-item p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: black;
+}
+.oldlove{
+    color: #72A0C1;
+}
